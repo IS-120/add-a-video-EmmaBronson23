@@ -6,6 +6,7 @@ body{
   flex-direction: column;
   font-family: Inter, sans-serif;
   line-height: 2.5rem;
+  margin: 0;
 }
 h1,h2,h3,h4{
   font-family: 'Montserrat', sans-serif;
